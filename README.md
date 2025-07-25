@@ -91,7 +91,7 @@ market-seasonality-explorer/
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/Manikanta-81/MSE-GoQuant-Task>
+git clone https://github.com/Manikanta-81/MSE-GoQuant-Task
 cd market-seasonality-explorer
 ```
 
