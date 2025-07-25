@@ -1,0 +1,19 @@
+.dashboard-panel {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.dashboard-panel h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+.dashboard-panel ul {
+  list-style: none;
+  padding: 0;
+}
+.dashboard-panel li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+} 
