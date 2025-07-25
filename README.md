@@ -6,7 +6,7 @@ A professional, interactive React app for visualizing historical volatility, liq
 
 ## 📦 Repository
 
-> [https://github.com/Manikanta-81/MSE-GoQuant-Task]
+> https://github.com/Manikanta-81/MSE-GoQuant-Task
 
 ---
 
